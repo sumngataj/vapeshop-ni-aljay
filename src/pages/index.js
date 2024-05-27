@@ -1,0 +1,5 @@
+export {default as Homepage} from './Home'
+export {default as Contact} from './Contact'
+export {default as Shop} from './shop/Shop'
+export {default as About} from './About'
+export {default as Cart} from './cart/Cart'
